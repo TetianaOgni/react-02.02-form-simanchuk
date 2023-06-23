@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-02.02-form-simanchuk/static/css/main.7acaea2f.css",
-    "main.js": "/react-02.02-form-simanchuk/static/js/main.07d3183d.js",
+    "main.css": "/react-02.02-form-simanchuk/static/css/main.01ea5020.css",
+    "main.js": "/react-02.02-form-simanchuk/static/js/main.31f92fdf.js",
     "index.html": "/react-02.02-form-simanchuk/index.html",
-    "main.7acaea2f.css.map": "/react-02.02-form-simanchuk/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-02.02-form-simanchuk/static/js/main.07d3183d.js.map"
+    "main.01ea5020.css.map": "/react-02.02-form-simanchuk/static/css/main.01ea5020.css.map",
+    "main.31f92fdf.js.map": "/react-02.02-form-simanchuk/static/js/main.31f92fdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.01ea5020.css",
+    "static/js/main.31f92fdf.js"
   ]
 }
